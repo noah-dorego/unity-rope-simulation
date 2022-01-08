@@ -1,6 +1,5 @@
-# Cloth-and-IK-Test
+# Rope Simulation
 
-Cloth and Rope (vertlet) simulation test + FABRIK test as shown in this video:
-https://www.youtube.com/watch?v=PGk0rnyTa1U
+This is a rope (vertlet) simulation made from the one in [Sebastien Lague's video](https://www.youtube.com/watch?v=PGk0rnyTa1U)
 
-![Image](https://raw.githubusercontent.com/SebLague/Images/master/Cloth%20Sim.PNG)
+You can [try it out on Itch.io](https://itsdeego.itch.io/rope-simulation).
